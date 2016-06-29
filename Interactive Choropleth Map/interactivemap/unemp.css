@@ -1,0 +1,38 @@
+#mainwrapper {
+    padding: 20px;
+    font-size: 14px;
+    font-family: "Century Gothic", "Helvectica", Arial, sans-serif;
+}
+#mainwrapper h1 {
+    font-size: 2.0em;
+    margin-bottom: 0.3em;
+}
+#leadin {
+    margin-bottom: 2.0em;
+}
+#direct p {
+    margin-top: 2.0em;
+    background: #e0e0e0;
+    padding: 0.4em;
+    width: 900px;
+}
+
+#tooltip {
+    position: absolute;
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    font-family: "Century Gothic", "Helvectica", Arial, sans-serif;
+}
+#tooltip h3 {
+    font-size: 1.0em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #fff;
+}
+#tooltip p {
+    font-size: 0.9em;
+}
+
+
+.clr { clear: both; }

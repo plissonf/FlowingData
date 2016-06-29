@@ -1,0 +1,595 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round workers 16 years and over with earnings"
+HC01_MOE_VC01,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round workers 16 years and over with earnings"
+HC02_EST_VC01,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round workers 16 years and over with earnings"
+HC02_MOE_VC01,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round workers 16 years and over with earnings"
+HC03_EST_VC01,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round workers 16 years and over with earnings"
+HC03_MOE_VC01,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round workers 16 years and over with earnings"
+HC04_EST_VC01,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round workers 16 years and over with earnings"
+HC04_MOE_VC01,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round workers 16 years and over with earnings"
+HC01_EST_VC04,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC01_MOE_VC04,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC02_EST_VC04,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC02_MOE_VC04,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC03_EST_VC04,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC03_MOE_VC04,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC04_EST_VC04,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC04_MOE_VC04,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - White
+HC01_EST_VC05,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC01_MOE_VC05,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC02_EST_VC05,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC02_MOE_VC05,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC03_EST_VC05,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC03_MOE_VC05,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC04_EST_VC05,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC04_MOE_VC05,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Black or African American
+HC01_EST_VC06,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC01_MOE_VC06,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC02_EST_VC06,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC02_MOE_VC06,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC03_EST_VC06,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC03_MOE_VC06,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC04_EST_VC06,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC04_MOE_VC06,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - American Indian and Alaska Native
+HC01_EST_VC07,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC01_MOE_VC07,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC02_EST_VC07,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC02_MOE_VC07,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC03_EST_VC07,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC03_MOE_VC07,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC04_EST_VC07,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC04_MOE_VC07,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Asian
+HC01_EST_VC08,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC08,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC08,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC08,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC03_EST_VC08,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC03_MOE_VC08,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC04_EST_VC08,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC04_MOE_VC08,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Native Hawaiian and Other Pacific Islander
+HC01_EST_VC09,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC01_MOE_VC09,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC02_EST_VC09,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC02_MOE_VC09,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC03_EST_VC09,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC03_MOE_VC09,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC04_EST_VC09,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC04_MOE_VC09,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race-- - Some other race
+HC01_EST_VC10,Median earnings (dollars)  - Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC10,Median earnings (dollars)  - Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC10,Median earnings (dollars)  - Male; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC10,Median earnings (dollars)  - Male; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC10,Median earnings (dollars)  - Female; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_MOE_VC10,Median earnings (dollars)  - Female; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC04_EST_VC10,Women's earnings as a percentage of men's earnings; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC04_MOE_VC10,Women's earnings as a percentage of men's earnings; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC12,Median earnings (dollars)  - Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC12,Median earnings (dollars)  - Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC12,Median earnings (dollars)  - Male; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC12,Median earnings (dollars)  - Male; Margin of Error; Hispanic or Latino origin (of any race)
+HC03_EST_VC12,Median earnings (dollars)  - Female; Estimate; Hispanic or Latino origin (of any race)
+HC03_MOE_VC12,Median earnings (dollars)  - Female; Margin of Error; Hispanic or Latino origin (of any race)
+HC04_EST_VC12,Women's earnings as a percentage of men's earnings; Estimate; Hispanic or Latino origin (of any race)
+HC04_MOE_VC12,Women's earnings as a percentage of men's earnings; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC13,"Median earnings (dollars)  - Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC13,"Median earnings (dollars)  - Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC13,"Median earnings (dollars)  - Male; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC13,"Median earnings (dollars)  - Male; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC13,"Median earnings (dollars)  - Female; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC13,"Median earnings (dollars)  - Female; Margin of Error; White alone, not Hispanic or Latino"
+HC04_EST_VC13,"Women's earnings as a percentage of men's earnings; Estimate; White alone, not Hispanic or Latino"
+HC04_MOE_VC13,"Women's earnings as a percentage of men's earnings; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC16,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC01_MOE_VC16,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC02_EST_VC16,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC02_MOE_VC16,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC03_EST_VC16,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC03_MOE_VC16,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC04_EST_VC16,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC04_MOE_VC16,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings
+HC01_EST_VC17,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC01_MOE_VC17,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC02_EST_VC17,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC02_MOE_VC17,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC03_EST_VC17,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC03_MOE_VC17,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC04_EST_VC17,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC04_MOE_VC17,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Less than high school graduate
+HC01_EST_VC18,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC01_MOE_VC18,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC02_EST_VC18,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC02_MOE_VC18,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC03_EST_VC18,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC03_MOE_VC18,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC04_EST_VC18,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC04_MOE_VC18,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - High school graduate (includes equivalency)
+HC01_EST_VC19,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC01_MOE_VC19,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC02_EST_VC19,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC02_MOE_VC19,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC03_EST_VC19,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC03_MOE_VC19,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC04_EST_VC19,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC04_MOE_VC19,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Some college or associate's degree
+HC01_EST_VC20,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC01_MOE_VC20,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC02_EST_VC20,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC02_MOE_VC20,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC03_EST_VC20,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC03_MOE_VC20,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC04_EST_VC20,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC04_MOE_VC20,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Bachelor's degree
+HC01_EST_VC21,Median earnings (dollars)  - Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC01_MOE_VC21,Median earnings (dollars)  - Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC02_EST_VC21,Median earnings (dollars)  - Male; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC02_MOE_VC21,Median earnings (dollars)  - Male; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC03_EST_VC21,Median earnings (dollars)  - Female; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC03_MOE_VC21,Median earnings (dollars)  - Female; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC04_EST_VC21,Women's earnings as a percentage of men's earnings; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC04_MOE_VC21,Women's earnings as a percentage of men's earnings; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over with earnings - Graduate or professional degree
+HC01_EST_VC23,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings"
+HC01_MOE_VC23,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings"
+HC02_EST_VC23,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings"
+HC02_MOE_VC23,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings"
+HC03_EST_VC23,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings"
+HC03_MOE_VC23,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings"
+HC04_EST_VC23,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings"
+HC04_MOE_VC23,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings"
+HC01_EST_VC25,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC01_MOE_VC25,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC02_EST_VC25,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC02_MOE_VC25,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC03_EST_VC25,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC03_MOE_VC25,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC04_EST_VC25,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC04_MOE_VC25,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Management occupations"
+HC01_EST_VC26,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC01_MOE_VC26,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC02_EST_VC26,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC02_MOE_VC26,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC03_EST_VC26,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC03_MOE_VC26,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC04_EST_VC26,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC04_MOE_VC26,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Business and financial operations occupations"
+HC01_EST_VC27,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC01_MOE_VC27,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC02_EST_VC27,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC02_MOE_VC27,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC03_EST_VC27,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC03_MOE_VC27,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC04_EST_VC27,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC04_MOE_VC27,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Computer and mathematical occupations"
+HC01_EST_VC28,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC01_MOE_VC28,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC02_EST_VC28,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC02_MOE_VC28,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC03_EST_VC28,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC03_MOE_VC28,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC04_EST_VC28,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC04_MOE_VC28,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Architecture and engineering occupations"
+HC01_EST_VC29,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC01_MOE_VC29,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC02_EST_VC29,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC02_MOE_VC29,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC03_EST_VC29,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC03_MOE_VC29,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC04_EST_VC29,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC04_MOE_VC29,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Life, physical, and social science occupations"
+HC01_EST_VC30,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC01_MOE_VC30,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC02_EST_VC30,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC02_MOE_VC30,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC03_EST_VC30,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC03_MOE_VC30,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC04_EST_VC30,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC04_MOE_VC30,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Community and social services occupations"
+HC01_EST_VC31,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC01_MOE_VC31,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC02_EST_VC31,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC02_MOE_VC31,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC03_EST_VC31,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC03_MOE_VC31,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC04_EST_VC31,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC04_MOE_VC31,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Legal occupations"
+HC01_EST_VC32,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC01_MOE_VC32,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC02_EST_VC32,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC02_MOE_VC32,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC03_EST_VC32,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC03_MOE_VC32,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC04_EST_VC32,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC04_MOE_VC32,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Education, training, and library occupations"
+HC01_EST_VC33,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC01_MOE_VC33,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC02_EST_VC33,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC02_MOE_VC33,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC03_EST_VC33,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC03_MOE_VC33,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC04_EST_VC33,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC04_MOE_VC33,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Arts, design, entertainment, sports, and media occupations"
+HC01_EST_VC34,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC01_MOE_VC34,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC02_EST_VC34,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC02_MOE_VC34,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC03_EST_VC34,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC03_MOE_VC34,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC04_EST_VC34,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC04_MOE_VC34,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare practitioner and technical occupations"
+HC01_EST_VC35,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC01_MOE_VC35,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC02_EST_VC35,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC02_MOE_VC35,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC03_EST_VC35,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC03_MOE_VC35,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC04_EST_VC35,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC04_MOE_VC35,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Healthcare support occupations"
+HC01_EST_VC36,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC01_MOE_VC36,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC02_EST_VC36,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC02_MOE_VC36,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC03_EST_VC36,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC03_MOE_VC36,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC04_EST_VC36,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC04_MOE_VC36,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Protective service occupations"
+HC01_EST_VC37,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC01_MOE_VC37,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC02_EST_VC37,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC02_MOE_VC37,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC03_EST_VC37,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC03_MOE_VC37,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC04_EST_VC37,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC04_MOE_VC37,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Food preparation and serving related occupations"
+HC01_EST_VC38,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC01_MOE_VC38,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC02_EST_VC38,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC02_MOE_VC38,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC03_EST_VC38,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC03_MOE_VC38,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC04_EST_VC38,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC04_MOE_VC38,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Building and grounds cleaning and maintenance occupations"
+HC01_EST_VC39,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC01_MOE_VC39,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC02_EST_VC39,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC02_MOE_VC39,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC03_EST_VC39,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC03_MOE_VC39,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC04_EST_VC39,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC04_MOE_VC39,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Personal care and service occupations"
+HC01_EST_VC40,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC01_MOE_VC40,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC02_EST_VC40,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC02_MOE_VC40,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC03_EST_VC40,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC03_MOE_VC40,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC04_EST_VC40,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC04_MOE_VC40,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Sales and related occupations"
+HC01_EST_VC41,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC01_MOE_VC41,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC02_EST_VC41,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC02_MOE_VC41,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC03_EST_VC41,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC03_MOE_VC41,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC04_EST_VC41,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC04_MOE_VC41,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Office and administrative support occupations"
+HC01_EST_VC42,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC01_MOE_VC42,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC02_EST_VC42,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC02_MOE_VC42,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC03_EST_VC42,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC03_MOE_VC42,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC04_EST_VC42,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC04_MOE_VC42,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Farming, fishing, and forestry occupations"
+HC01_EST_VC43,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC01_MOE_VC43,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC02_EST_VC43,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC02_MOE_VC43,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC03_EST_VC43,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC03_MOE_VC43,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC04_EST_VC43,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC04_MOE_VC43,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Construction and extraction occupations"
+HC01_EST_VC44,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC01_MOE_VC44,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC02_EST_VC44,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC02_MOE_VC44,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC03_EST_VC44,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC03_MOE_VC44,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC04_EST_VC44,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC04_MOE_VC44,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Installation, maintenance, and repair occupations"
+HC01_EST_VC45,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC01_MOE_VC45,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC02_EST_VC45,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC02_MOE_VC45,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC03_EST_VC45,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC03_MOE_VC45,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC04_EST_VC45,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC04_MOE_VC45,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Production occupations"
+HC01_EST_VC46,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC01_MOE_VC46,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC02_EST_VC46,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC02_MOE_VC46,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC03_EST_VC46,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC03_MOE_VC46,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC04_EST_VC46,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC04_MOE_VC46,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Transportation occupations"
+HC01_EST_VC47,"Median earnings (dollars)  - Total; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC01_MOE_VC47,"Median earnings (dollars)  - Total; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC02_EST_VC47,"Median earnings (dollars)  - Male; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC02_MOE_VC47,"Median earnings (dollars)  - Male; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC03_EST_VC47,"Median earnings (dollars)  - Female; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC03_MOE_VC47,"Median earnings (dollars)  - Female; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC04_EST_VC47,"Women's earnings as a percentage of men's earnings; Estimate; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC04_MOE_VC47,"Women's earnings as a percentage of men's earnings; Margin of Error; Full-time, year-round civilian workers 16 years and over with earnings - OCCUPATION - Material moving occupations"
+HC01_EST_VC50,"Median earnings (dollars)  - Total; Estimate; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC01_MOE_VC50,"Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC02_EST_VC50,"Median earnings (dollars)  - Male; Estimate; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC02_MOE_VC50,"Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC03_EST_VC50,"Median earnings (dollars)  - Female; Estimate; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC03_MOE_VC50,"Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC04_EST_VC50,"Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC04_MOE_VC50,"Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Agriculture, forestry, fishing and hunting"
+HC01_EST_VC51,"Median earnings (dollars)  - Total; Estimate; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC01_MOE_VC51,"Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC02_EST_VC51,"Median earnings (dollars)  - Male; Estimate; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC02_MOE_VC51,"Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC03_EST_VC51,"Median earnings (dollars)  - Female; Estimate; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC03_MOE_VC51,"Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC04_EST_VC51,"Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC04_MOE_VC51,"Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Mining, quarrying, and oil and gas extraction"
+HC01_EST_VC52,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Construction
+HC01_MOE_VC52,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Construction
+HC02_EST_VC52,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Construction
+HC02_MOE_VC52,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Construction
+HC03_EST_VC52,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Construction
+HC03_MOE_VC52,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Construction
+HC04_EST_VC52,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Construction
+HC04_MOE_VC52,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Construction
+HC01_EST_VC53,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Manufacturing
+HC01_MOE_VC53,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Manufacturing
+HC02_EST_VC53,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Manufacturing
+HC02_MOE_VC53,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Manufacturing
+HC03_EST_VC53,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Manufacturing
+HC03_MOE_VC53,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Manufacturing
+HC04_EST_VC53,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Manufacturing
+HC04_MOE_VC53,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Manufacturing
+HC01_EST_VC54,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Wholesale trade
+HC01_MOE_VC54,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Wholesale trade
+HC02_EST_VC54,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Wholesale trade
+HC02_MOE_VC54,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Wholesale trade
+HC03_EST_VC54,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Wholesale trade
+HC03_MOE_VC54,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Wholesale trade
+HC04_EST_VC54,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Wholesale trade
+HC04_MOE_VC54,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Wholesale trade
+HC01_EST_VC55,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Retail trade
+HC01_MOE_VC55,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Retail trade
+HC02_EST_VC55,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Retail trade
+HC02_MOE_VC55,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Retail trade
+HC03_EST_VC55,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Retail trade
+HC03_MOE_VC55,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Retail trade
+HC04_EST_VC55,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Retail trade
+HC04_MOE_VC55,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Retail trade
+HC01_EST_VC56,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Transportation and warehousing
+HC01_MOE_VC56,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Transportation and warehousing
+HC02_EST_VC56,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Transportation and warehousing
+HC02_MOE_VC56,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Transportation and warehousing
+HC03_EST_VC56,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Transportation and warehousing
+HC03_MOE_VC56,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Transportation and warehousing
+HC04_EST_VC56,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Transportation and warehousing
+HC04_MOE_VC56,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Transportation and warehousing
+HC01_EST_VC57,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Utilities
+HC01_MOE_VC57,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Utilities
+HC02_EST_VC57,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Utilities
+HC02_MOE_VC57,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Utilities
+HC03_EST_VC57,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Utilities
+HC03_MOE_VC57,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Utilities
+HC04_EST_VC57,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Utilities
+HC04_MOE_VC57,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Utilities
+HC01_EST_VC58,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Information
+HC01_MOE_VC58,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Information
+HC02_EST_VC58,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Information
+HC02_MOE_VC58,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Information
+HC03_EST_VC58,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Information
+HC03_MOE_VC58,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Information
+HC04_EST_VC58,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Information
+HC04_MOE_VC58,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Information
+HC01_EST_VC59,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Finance and insurance
+HC01_MOE_VC59,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Finance and insurance
+HC02_EST_VC59,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Finance and insurance
+HC02_MOE_VC59,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Finance and insurance
+HC03_EST_VC59,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Finance and insurance
+HC03_MOE_VC59,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Finance and insurance
+HC04_EST_VC59,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Finance and insurance
+HC04_MOE_VC59,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Finance and insurance
+HC01_EST_VC60,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Real estate and rental and leasing
+HC01_MOE_VC60,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Real estate and rental and leasing
+HC02_EST_VC60,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Real estate and rental and leasing
+HC02_MOE_VC60,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Real estate and rental and leasing
+HC03_EST_VC60,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Real estate and rental and leasing
+HC03_MOE_VC60,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Real estate and rental and leasing
+HC04_EST_VC60,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Real estate and rental and leasing
+HC04_MOE_VC60,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Real estate and rental and leasing
+HC01_EST_VC61,"Median earnings (dollars)  - Total; Estimate; INDUSTRY - Professional, scientific, and technical services"
+HC01_MOE_VC61,"Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Professional, scientific, and technical services"
+HC02_EST_VC61,"Median earnings (dollars)  - Male; Estimate; INDUSTRY - Professional, scientific, and technical services"
+HC02_MOE_VC61,"Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Professional, scientific, and technical services"
+HC03_EST_VC61,"Median earnings (dollars)  - Female; Estimate; INDUSTRY - Professional, scientific, and technical services"
+HC03_MOE_VC61,"Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Professional, scientific, and technical services"
+HC04_EST_VC61,"Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Professional, scientific, and technical services"
+HC04_MOE_VC61,"Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Professional, scientific, and technical services"
+HC01_EST_VC62,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Management of companies and enterprises
+HC01_MOE_VC62,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Management of companies and enterprises
+HC02_EST_VC62,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Management of companies and enterprises
+HC02_MOE_VC62,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Management of companies and enterprises
+HC03_EST_VC62,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Management of companies and enterprises
+HC03_MOE_VC62,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Management of companies and enterprises
+HC04_EST_VC62,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Management of companies and enterprises
+HC04_MOE_VC62,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Management of companies and enterprises
+HC01_EST_VC63,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Administrative and support and waste management services
+HC01_MOE_VC63,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Administrative and support and waste management services
+HC02_EST_VC63,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Administrative and support and waste management services
+HC02_MOE_VC63,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Administrative and support and waste management services
+HC03_EST_VC63,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Administrative and support and waste management services
+HC03_MOE_VC63,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Administrative and support and waste management services
+HC04_EST_VC63,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Administrative and support and waste management services
+HC04_MOE_VC63,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Administrative and support and waste management services
+HC01_EST_VC64,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Educational services
+HC01_MOE_VC64,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Educational services
+HC02_EST_VC64,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Educational services
+HC02_MOE_VC64,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Educational services
+HC03_EST_VC64,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Educational services
+HC03_MOE_VC64,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Educational services
+HC04_EST_VC64,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Educational services
+HC04_MOE_VC64,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Educational services
+HC01_EST_VC65,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Health care and social assistance
+HC01_MOE_VC65,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Health care and social assistance
+HC02_EST_VC65,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Health care and social assistance
+HC02_MOE_VC65,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Health care and social assistance
+HC03_EST_VC65,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Health care and social assistance
+HC03_MOE_VC65,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Health care and social assistance
+HC04_EST_VC65,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Health care and social assistance
+HC04_MOE_VC65,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Health care and social assistance
+HC01_EST_VC66,"Median earnings (dollars)  - Total; Estimate; INDUSTRY - Arts, entertainment, and recreation"
+HC01_MOE_VC66,"Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Arts, entertainment, and recreation"
+HC02_EST_VC66,"Median earnings (dollars)  - Male; Estimate; INDUSTRY - Arts, entertainment, and recreation"
+HC02_MOE_VC66,"Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Arts, entertainment, and recreation"
+HC03_EST_VC66,"Median earnings (dollars)  - Female; Estimate; INDUSTRY - Arts, entertainment, and recreation"
+HC03_MOE_VC66,"Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Arts, entertainment, and recreation"
+HC04_EST_VC66,"Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Arts, entertainment, and recreation"
+HC04_MOE_VC66,"Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Arts, entertainment, and recreation"
+HC01_EST_VC67,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Accommodation and food services
+HC01_MOE_VC67,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Accommodation and food services
+HC02_EST_VC67,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Accommodation and food services
+HC02_MOE_VC67,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Accommodation and food services
+HC03_EST_VC67,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Accommodation and food services
+HC03_MOE_VC67,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Accommodation and food services
+HC04_EST_VC67,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Accommodation and food services
+HC04_MOE_VC67,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Accommodation and food services
+HC01_EST_VC68,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Other services (except public administration)
+HC01_MOE_VC68,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Other services (except public administration)
+HC02_EST_VC68,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Other services (except public administration)
+HC02_MOE_VC68,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Other services (except public administration)
+HC03_EST_VC68,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Other services (except public administration)
+HC03_MOE_VC68,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Other services (except public administration)
+HC04_EST_VC68,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Other services (except public administration)
+HC04_MOE_VC68,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Other services (except public administration)
+HC01_EST_VC69,Median earnings (dollars)  - Total; Estimate; INDUSTRY - Public administration
+HC01_MOE_VC69,Median earnings (dollars)  - Total; Margin of Error; INDUSTRY - Public administration
+HC02_EST_VC69,Median earnings (dollars)  - Male; Estimate; INDUSTRY - Public administration
+HC02_MOE_VC69,Median earnings (dollars)  - Male; Margin of Error; INDUSTRY - Public administration
+HC03_EST_VC69,Median earnings (dollars)  - Female; Estimate; INDUSTRY - Public administration
+HC03_MOE_VC69,Median earnings (dollars)  - Female; Margin of Error; INDUSTRY - Public administration
+HC04_EST_VC69,Women's earnings as a percentage of men's earnings; Estimate; INDUSTRY - Public administration
+HC04_MOE_VC69,Women's earnings as a percentage of men's earnings; Margin of Error; INDUSTRY - Public administration
+HC01_EST_VC72,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Employee of private company workers
+HC01_MOE_VC72,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Employee of private company workers
+HC02_EST_VC72,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Employee of private company workers
+HC02_MOE_VC72,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Employee of private company workers
+HC03_EST_VC72,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Employee of private company workers
+HC03_MOE_VC72,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Employee of private company workers
+HC04_EST_VC72,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Employee of private company workers
+HC04_MOE_VC72,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Employee of private company workers
+HC01_EST_VC73,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Self employed in own incorporated business workers
+HC01_MOE_VC73,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Self employed in own incorporated business workers
+HC02_EST_VC73,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Self employed in own incorporated business workers
+HC02_MOE_VC73,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Self employed in own incorporated business workers
+HC03_EST_VC73,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Self employed in own incorporated business workers
+HC03_MOE_VC73,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Self employed in own incorporated business workers
+HC04_EST_VC73,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Self employed in own incorporated business workers
+HC04_MOE_VC73,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Self employed in own incorporated business workers
+HC01_EST_VC74,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC01_MOE_VC74,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC02_EST_VC74,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC02_MOE_VC74,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC03_EST_VC74,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC03_MOE_VC74,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC04_EST_VC74,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC04_MOE_VC74,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Private not-for-profit wage and salary workers
+HC01_EST_VC75,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Local government workers
+HC01_MOE_VC75,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Local government workers
+HC02_EST_VC75,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Local government workers
+HC02_MOE_VC75,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Local government workers
+HC03_EST_VC75,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Local government workers
+HC03_MOE_VC75,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Local government workers
+HC04_EST_VC75,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Local government workers
+HC04_MOE_VC75,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Local government workers
+HC01_EST_VC76,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - State government workers
+HC01_MOE_VC76,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - State government workers
+HC02_EST_VC76,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - State government workers
+HC02_MOE_VC76,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - State government workers
+HC03_EST_VC76,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - State government workers
+HC03_MOE_VC76,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - State government workers
+HC04_EST_VC76,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - State government workers
+HC04_MOE_VC76,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - State government workers
+HC01_EST_VC77,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Federal government workers
+HC01_MOE_VC77,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Federal government workers
+HC02_EST_VC77,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Federal government workers
+HC02_MOE_VC77,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Federal government workers
+HC03_EST_VC77,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Federal government workers
+HC03_MOE_VC77,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Federal government workers
+HC04_EST_VC77,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Federal government workers
+HC04_MOE_VC77,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Federal government workers
+HC01_EST_VC78,Median earnings (dollars)  - Total; Estimate; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC01_MOE_VC78,Median earnings (dollars)  - Total; Margin of Error; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC02_EST_VC78,Median earnings (dollars)  - Male; Estimate; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC02_MOE_VC78,Median earnings (dollars)  - Male; Margin of Error; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC03_EST_VC78,Median earnings (dollars)  - Female; Estimate; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC03_MOE_VC78,Median earnings (dollars)  - Female; Margin of Error; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC04_EST_VC78,Women's earnings as a percentage of men's earnings; Estimate; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC04_MOE_VC78,Women's earnings as a percentage of men's earnings; Margin of Error; CLASS OF WORKER - Self employed in own not incorporated business workers and unpaid family workers
+HC01_EST_VC81,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Earnings in the past 12 months
+HC01_MOE_VC81,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Earnings in the past 12 months
+HC02_EST_VC81,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Earnings in the past 12 months
+HC02_MOE_VC81,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Earnings in the past 12 months
+HC03_EST_VC81,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Earnings in the past 12 months
+HC03_MOE_VC81,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Earnings in the past 12 months
+HC04_EST_VC81,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Earnings in the past 12 months
+HC04_MOE_VC81,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Earnings in the past 12 months
+HC01_EST_VC82,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Race
+HC01_MOE_VC82,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Race
+HC02_EST_VC82,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Race
+HC02_MOE_VC82,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Race
+HC03_EST_VC82,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Race
+HC03_MOE_VC82,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Race
+HC04_EST_VC82,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Race
+HC04_MOE_VC82,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Race
+HC01_EST_VC83,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Hispanic or Latino origin
+HC01_MOE_VC83,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Hispanic or Latino origin
+HC02_EST_VC83,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Hispanic or Latino origin
+HC02_MOE_VC83,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Hispanic or Latino origin
+HC03_EST_VC83,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Hispanic or Latino origin
+HC03_MOE_VC83,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Hispanic or Latino origin
+HC04_EST_VC83,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Hispanic or Latino origin
+HC04_MOE_VC83,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Hispanic or Latino origin
+HC01_EST_VC84,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Educational attainment
+HC01_MOE_VC84,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Educational attainment
+HC02_EST_VC84,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Educational attainment
+HC02_MOE_VC84,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Educational attainment
+HC03_EST_VC84,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Educational attainment
+HC03_MOE_VC84,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Educational attainment
+HC04_EST_VC84,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Educational attainment
+HC04_MOE_VC84,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Educational attainment
+HC01_EST_VC85,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Occupation
+HC01_MOE_VC85,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Occupation
+HC02_EST_VC85,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Occupation
+HC02_MOE_VC85,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Occupation
+HC03_EST_VC85,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Occupation
+HC03_MOE_VC85,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Occupation
+HC04_EST_VC85,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Occupation
+HC04_MOE_VC85,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Occupation
+HC01_EST_VC86,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Industry
+HC01_MOE_VC86,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Industry
+HC02_EST_VC86,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Industry
+HC02_MOE_VC86,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Industry
+HC03_EST_VC86,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Industry
+HC03_MOE_VC86,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Industry
+HC04_EST_VC86,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Industry
+HC04_MOE_VC86,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Industry
+HC01_EST_VC87,Median earnings (dollars)  - Total; Estimate; PERCENT IMPUTED - Class of worker
+HC01_MOE_VC87,Median earnings (dollars)  - Total; Margin of Error; PERCENT IMPUTED - Class of worker
+HC02_EST_VC87,Median earnings (dollars)  - Male; Estimate; PERCENT IMPUTED - Class of worker
+HC02_MOE_VC87,Median earnings (dollars)  - Male; Margin of Error; PERCENT IMPUTED - Class of worker
+HC03_EST_VC87,Median earnings (dollars)  - Female; Estimate; PERCENT IMPUTED - Class of worker
+HC03_MOE_VC87,Median earnings (dollars)  - Female; Margin of Error; PERCENT IMPUTED - Class of worker
+HC04_EST_VC87,Women's earnings as a percentage of men's earnings; Estimate; PERCENT IMPUTED - Class of worker
+HC04_MOE_VC87,Women's earnings as a percentage of men's earnings; Margin of Error; PERCENT IMPUTED - Class of worker

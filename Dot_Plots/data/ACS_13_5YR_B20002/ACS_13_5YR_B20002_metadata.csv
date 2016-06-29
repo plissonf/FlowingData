@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD02,Estimate; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Total:
+HD02_VD02,Margin of Error; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Total:
+HD01_VD03,Estimate; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Male
+HD02_VD03,Margin of Error; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Male
+HD01_VD04,Estimate; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Female
+HD02_VD04,Margin of Error; Median earnings in the past 12 months (in 2013 inflation-adjusted dollars) -- - Female

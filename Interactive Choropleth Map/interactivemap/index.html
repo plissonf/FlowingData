@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+       <title>Interactive Choropleth Map</title>
+       <link rel="stylesheet" type="text/css" href="http://media.flowingdata.com/css/reset.css">
+       <link rel="stylesheet" type="text/css" href="unemp.css">
+       <script src="http://media.flowingdata.com/js/jquery-1.4.4.min.js" type="text/javascript" charset="utf-8"></script>
+       <script src="raphael-min.js" type="text/javascript" charset="utf-8"></script>
+       
+</head>
+<body>
+<div id="mainwrapper">
+        
+    <div id="leadin">
+        <h1>Unemployment Rate</h1>
+        <p>September 2012, seasonally adjusted</p>
+    </div>
+
+    <div id="map"></div>
+        
+    <div class="clr"></div>
+        
+    <div id="direct">
+        <p>This is an example of an interactive choropleth map. See the tutorial for details on how to do this with your own data.</p>
+    </div>
+
+    <div id="tooltip"></div>
+    
+    <div id="debug"></div>
+</div>
+    
+<script src="blankmap.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+
+// Helper function to determine color. Currently a blue-gray color scheme.
+function getColor(val) {
+       
+       if (val < 5) {    
+           var col = "#d0d3db"; //"#f4e572"; //"#6f6409"; //"#fda6b5"; //"#b4e68d"; //"#e5e5e5"; 
+       } else if (val < 7) {
+           var col = "#a9afbe"; //"#ddc611"; //"#fb3154"; //"#8fda56"; //"#c3c3c3"; 
+       } else if (val < 9) {
+           var col = "#677189"; //"#9f8e0d"; //"#a1031f"; //"#64b427"; //"#999"; 
+       } else {
+           var col = "#434958"; //"#6f6409"; //"#5e0212"; //"#356015"; //"#4c4c4c"; 
+       }
+       return(col);
+    
+} // @end getColor
+
+
+$(document).ready(function () {
+           
+    // Load the data.       
+    $.getJSON('unemp.json', function(data) {
+            
+           var tooltip = $("#tooltip").hide();
+           var tiphtml = "";
+           var over = false;
+           
+           // Store data by state abbreviation.            
+           var unemp = {};
+           $.each(data.states, function(i,state) {    
+               // $("#debug").append(state.name);
+               unemp[state.abbrev] = { "name":state.name, "val":state.unemprate };
+           }); // @end each
+           
+           // Set properties for each state.
+           for (var i=0; i < states.length; i++) {
+               var s = states[i];
+               var id = s.data("id");
+               if (id == "SP") { id = "MI"; } // A hack to deal with two-part Michigan in SVG
+               
+               // Set state color.
+               s.attr({
+                   fill: getColor(unemp[id].val),
+                   // fill: "#d6d6d6",
+                   stroke: "#fff" 
+               });
+               
+               // Highlight state and show tooltip on mouse over.
+               s.mouseover(function() {
+                   this.toFront();
+                   var abbrev = this.data("id");
+                   if (abbrev == 'SP' || abbrev == 'MI') {
+                       SP.attr({
+                           stroke: "#000",
+                           'stroke-width': '2'
+                       });
+                       MI.attr({
+                           stroke: "#000",
+                           'stroke-width': '2'
+                       });
+                   } else {
+                       this.attr({
+                           stroke: "#000",
+                           'stroke-width': '2'
+                       });
+                   }
+                   tiphtml = '<h3>'+unemp[abbrev].name+'</h3><p>Unemployment rate: '+unemp[abbrev].val+'%</p>';
+                   over = true;
+                   $(tooltip).show();
+               });
+        
+                   
+               // Remove highlight and tool tip.
+               s.mouseout(function() {
+                   var abbrev = this.data("id");
+                   if (abbrev == 'SP' || abbrev == 'MI') {
+                       SP.attr({
+                           stroke: "#fff",
+                           'stroke-width': "1"
+                       });
+                       MI.attr({
+                           stroke: "#fff",
+                           'stroke-width': "1"
+                       });
+                   } else {
+                       this.attr({
+                           stroke: "#fff",
+                           'stroke-width': "1"
+                       });
+                   }
+                   over = false;
+                   $(tooltip).hide();
+               });
+               
+            } // @end for loop
+           
+           
+            // Set tooltip text and position.
+            $(document).mousemove(function(e) {
+                if (over) {
+                    $(tooltip).css("left", e.clientX+15).css("top", e.clientY+15);
+                    $(tooltip).html(tiphtml);
+                }
+            });
+            
+            
+            
+    }); // @end getJSON
+});  // @end ready    
+</script>
+<script src="zoomandpan.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>    
